@@ -19,14 +19,13 @@
 
 <p align="left">
   Links: ⤵️
-  💌Email : italorocha305@gmail.com  ![My Skills](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=italorocha305@gmail.com)
-   
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[italorocha305@gmail.com]" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=italorocha305@gmail.com" /></a>
+  💌Email : italorocha305@gmail.com  
+</p>
 
+<p align="left">
   <a href="https://www.linkedin.com/in/%C3%ADtalo-rocha-6b1491160/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%ADtalo-rocha-6b1491160/" /></a>
  <a href="https://wa.me/5531975736181" alt="zapzap">
