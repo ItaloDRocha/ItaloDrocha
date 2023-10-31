@@ -18,7 +18,9 @@
 
 
 <p align="left">
-  💌 Links: ⤵️
+  Links: ⤵️
+  💌Email : italorocha305@gmail.com  ![My Skills](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=italorocha305@gmail.com)
+   
 </p>
 
 <p align="left">
