@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🚀  Ferramentas: PHP | JS | MYSQL | LARAVEL
+  🚀  Ferramentas: PHP | LARAVEL | JS | MYSQL 
 
 </p>
  
